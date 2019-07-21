@@ -16,3 +16,5 @@
 - 参考にしたサイト
   - https://ensekitt.hatenablog.com/entry/2017/12/19/200000     カメラから1フレーム毎に画像を取得する方法
   - https://postd.cc/image-processing-101     画像の平均の輝度の求め方(演習の部分)
+- gifファイルを作るのに時間がかかりすぎるので、mp4ファイルで代用
+![result](https://github.com/TomcaT1229/pulse-measure/edit/master/MOV=0255.mp4)
